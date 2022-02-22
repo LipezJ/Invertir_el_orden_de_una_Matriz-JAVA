@@ -12,11 +12,11 @@ _Este código es para cambiar la matriz y no para cambiar el orden de impresión
 
 ## Para ejecutar el codigo
 
-Lo que se tiene que hacer es abrir el archivo que esta en **\Invertir_el_orden_de_una_Matriz-JAVA\Source package\invertir_una_matriz\invertir_una_matriz.java** con su 
+Lo que se tiene que hacer es abrir el archivo que esta en **Invertir_el_orden_de_una_Matriz-JAVA/src/invertir_una_matriz/Invertir_una_Matriz.java** con su 
 IDE y ejecutarlo ahi para ver el resultado en consola.
 
 ## Invertir una matriz diferente
 
-Para invertir una matriz diferente lo que deben hacer es cambiar el codigo de la linea 32 a la 39 en la direccion **\Invertir_el_orden_de_una_Matriz-JAVA\Source package\invertir_una_matriz\invertir_una_matriz.java**
+Para invertir una matriz diferente lo que deben hacer es cambiar el codigo de la linea 32 a la 39 en la direccion **Invertir_el_orden_de_una_Matriz-JAVA/src/invertir_una_matriz/Invertir_una_Matriz.java**
 
 _Las explicaciones del funcionamiento del codigo estan en comentarios en el mismo codigo_
